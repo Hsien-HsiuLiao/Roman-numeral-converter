@@ -1,2 +1,2 @@
 # Roman-numeral-converter
-Enter number and it will be converted to roman numerals
+As a user, I can enter a decimal number in the input box and press the submit button to get a roman numeral
