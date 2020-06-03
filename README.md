@@ -3,8 +3,13 @@ As a user, I can enter a decimal number in the input box and press the submit bu
 
 
 git clone
+
 create-react-app
+
 (update code)
+
 git add .
+
 git -m commit
+
 git push
